@@ -2,7 +2,7 @@
 
 ### Education
 Belarusian State University
-/n Physics faculty (engineer)
+Physics faculty (engineer)
 
 ### Experience
 - laboratory assistant
@@ -12,6 +12,7 @@ Belarusian State University
 ### Coding Practice
 
 [Крестики-нолики](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
+[FancyCalc](https://github.com/OlgaSheva/FancyCalc)
 
 ```
 You can use the [editor on GitHub](https://github.com/OlgaSheva/OlgaSheva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

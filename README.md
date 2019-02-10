@@ -1,19 +1,19 @@
 ## Olga Kripulevich
 
-# Education
+### Education
 Belarusian State University
 Physics faculty (engineer)
 
-# Experience
+### Experience
 - laboratory assistant
 - assistant manager
 - engineer
 
-# Coding Practice
+### Coding Practice
 
-[Link](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
+[Крестики-нолики](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
 
-
+```
 You can use the [editor on GitHub](https://github.com/OlgaSheva/OlgaSheva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -36,7 +36,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

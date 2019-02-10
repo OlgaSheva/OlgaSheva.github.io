@@ -7,12 +7,12 @@ Physics faculty (engineer)
 
 ### Experience
 - Laboratory assistant (Institute of Chemistry of New Materials, Academy of Sciences)
-> 2010.10 - 2012.06. Removal and interpretation of spectra. Writing articles based on the results. Participation in scientific conferences. Participation in the development of 3D glasses from Belarusian materials (modeling of film systems in the Delphi software environment).
-Was the operator of the vacuum deposition unit.
-- Assistant manager (SOOO "STS-Klimate")
-> 2012.08 - 2013.10. Selection of equipment for engineering systems of buildings (ventilation, air conditioning, heating). Monitoring of tenders and preparation of tender documentation. Controlling the supply of equipment at the facilities.
-- Engineer (ODO "Sem' vetrov")
-> 2013.10 - until now. Selection of ventilation equipment for private, commercial and industrial facilities. Advising clients on the choice of ventilation systems and technical issues about equipment (including online in the jivosite system). Commercial offers. Participation in tenders. Support of current information on the company website.
+> 2010.10 - 2012.06. I have discovered spectra of different materials. Also I have wrote articles based on the results of my discovery and represented it on scientific conferences. I have been a member of working group which developed of 3D glasses used Belarusian materials (modeling of film systems in the Delphi software environment).
+I was the operator of the vacuum deposition unit.
+- Manager assistant (STS-Klimate Ltd.)
+> 2012.08 - 2013.10. I have picked equipment for building engineering systems (ventilation, air conditioning, heating). Also in my duties included monitoring of tenders, preparation of tender documentation and controlling the supply of equipment to the customers.
+- Engineer (7vetrov Ltd.)
+> 2013.10 - until now. I have picked ventilation equipment for private, commercial and industrial facilities. Also in my duties included preparation commercial offers and participation in tenders. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
 - 2016.10 - until now. Holiday to care for the child.
 
 ### Coding Practice

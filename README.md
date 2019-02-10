@@ -13,7 +13,7 @@ Was the operator of the vacuum deposition unit.
 > 2012.08 - 2013.10. Selection of equipment for engineering systems of buildings (ventilation, air conditioning, heating). Monitoring of tenders and preparation of tender documentation. Controlling the supply of equipment at the facilities.
 - Engineer (ODO "Sem' vetrov")
 > 2013.10 - until now. Selection of ventilation equipment for private, commercial and industrial facilities. Advising clients on the choice of ventilation systems and technical issues about equipment (including online in the jivosite system). Commercial offers. Participation in tenders. Support of current information on the company website.
-> 2016.10 - until now. Holiday to care for the child.
+- 2016.10 - until now. Holiday to care for the child.
 
 ### Coding Practice
 

@@ -2,7 +2,7 @@
 
 ### Education
 Belarusian State University
-Physics faculty (engineer)
+/n Physics faculty (engineer)
 
 ### Experience
 - laboratory assistant

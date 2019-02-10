@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Olga Kkripulevich
+
+
 
 You can use the [editor on GitHub](https://github.com/OlgaSheva/OlgaSheva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +13,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
+Belarusian State University
+Physics faculty (engineer)
+
+## Experience
+- laboratory assistant
+- assistant manager
+- engineer
+
+## Coding Practice
+
+[Link](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
 
 - Bulleted
 - List

@@ -1,8 +1,8 @@
 ## Olga Kripulevich
 
 ### Education
-*Belarusian State University
-*Physics faculty (engineer)
+>Belarusian State University
+>Physics faculty (engineer)
 
 ### Experience
 - laboratory assistant

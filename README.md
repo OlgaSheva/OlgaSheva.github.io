@@ -19,4 +19,5 @@ I was the operator of the vacuum deposition unit.
 
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
 - [Крестики-нолики](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
+![sertificate]()
 - [FancyCalc](https://github.com/OlgaSheva/FancyCalc)

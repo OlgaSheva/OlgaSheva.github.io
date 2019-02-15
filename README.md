@@ -27,3 +27,5 @@ I was the operator of the vacuum deposition unit.
 - [PadawansTask4](https://github.com/OlgaSheva/PadawansTask4)
 - [PadawansTask5](https://github.com/OlgaSheva/PadawansTask5)
 - [PadawansTask6](https://github.com/OlgaSheva/PadawansTask6)
+
+- [Codewars Convert-A-Hex-String-To-RGB](https://github.com/OlgaSheva/Convert-A-Hex-String-To-RGB/blob/master/Convert%20A%20Hex%20String%20To%20RGB/Program.cs)

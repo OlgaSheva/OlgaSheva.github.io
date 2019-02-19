@@ -15,6 +15,9 @@ I was the operator of the vacuum deposition unit.
 > 2013.10 - until now. I had picked ventilation equipment for private, commercial and industrial facilities. Also in my duties included preparation commercial offers and participation in tenders. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
 - 2016.10 - until now. Holiday to care for the child.
 
+### Interests
+Programming. Krypto traiding. Yoga.
+
 ### Coding Practice
 
 - [Codewars](https://www.codewars.com/users/OlgaSheva)

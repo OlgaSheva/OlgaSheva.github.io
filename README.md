@@ -30,6 +30,9 @@ I was the operator of the vacuum deposition unit.
 - [PadawansTask7](https://github.com/OlgaSheva/PadawansTask7)
 - [PadawansTask8](https://github.com/OlgaSheva/PadawansTask8)
 - [PadawansTask9](https://github.com/OlgaSheva/PadawansTask9)
+- [PadawansTask10](https://github.com/OlgaSheva/PadawansTask10)
+- [PadawansTask11](https://github.com/OlgaSheva/PadawansTask11)
+- [PadawansTask12](https://github.com/OlgaSheva/PadawansTask12)
 - [PadawansTask13](https://github.com/OlgaSheva/PadawansTask13)
 
-- [Codewars Convert-A-Hex-String-To-RGB](https://github.com/OlgaSheva/Convert-A-Hex-String-To-RGB/blob/master/Convert%20A%20Hex%20String%20To%20RGB/Program.cs)
+- [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)

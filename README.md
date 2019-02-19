@@ -21,6 +21,8 @@ Programming. Krypto traiding. Yoga.
 ### Coding Practice
 
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
+- [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
+- [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)
 - [Крестики-нолики](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
 [certificate](https://olgasheva.github.io/images/certificate1.jpg)
 - [FancyCalc](https://github.com/OlgaSheva/FancyCalc)
@@ -37,6 +39,3 @@ Programming. Krypto traiding. Yoga.
 - [PadawansTask11](https://github.com/OlgaSheva/PadawansTask11)
 - [PadawansTask12](https://github.com/OlgaSheva/PadawansTask12)
 - [PadawansTask13](https://github.com/OlgaSheva/PadawansTask13)
-
-- [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
-- [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)

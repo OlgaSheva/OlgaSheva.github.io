@@ -39,3 +39,4 @@ Programming. Krypto traiding. Yoga.
 - [PadawansTask13](https://github.com/OlgaSheva/PadawansTask13)
 
 - [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
+- [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)

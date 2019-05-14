@@ -13,13 +13,20 @@ I was the operator of the vacuum deposition unit.
 > 2012.08 - 2013.10. I had picked equipment for building engineering systems (ventilation, air conditioning, heating). Also in my duties included monitoring of tenders, preparation of tender documentation and controlling the supply of equipment to the customers.
 - Engineer (7vetrov Ltd.)
 > 2013.10 - until now. I had picked ventilation equipment for private, commercial and industrial facilities. Also in my duties included preparation commercial offers and participation in tenders. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
-- 2016.10 - until now. Holiday to care for the child.
+- 2016.10 - until now. I'm out of work with my child.
 
 ### Interests
 Programming. Krypto traiding. Yoga.
 
 ### Coding Practice
 
+## Stage#2:
+- [Coding Practice: XLM Parser](https://github.com/OlgaSheva/CodingPracticeXLMParser)
+- [Coding Practice: Custom Collections](https://github.com/OlgaSheva/CodingPracticeCSharpStage2)
+- [M7. Framework Fundamentals Tasks](https://github.com/OlgaSheva/M7.-Framework-Fundamentals)
+- [M10. Generics and Collections Tasks](https://github.com/OlgaSheva/M10.-Generics-and-Collections)
+
+## Stage#1:
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
 - [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
 - [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)

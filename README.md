@@ -27,7 +27,7 @@ Programming. Krypto traiding. Yoga.
 - [M3. Creating types in CSharp Tasks](https://github.com/OlgaSheva/M3.-Creating-types-in-CSharp)
 - [M4. Methods in details Tasks](https://github.com/OlgaSheva/M4.-Methods-in-details)
 - [M7. Framework Fundamentals Tasks](https://github.com/OlgaSheva/M7.-Framework-Fundamentals)
-- [M9.-Delegates.-Lambdas-and-Events Tasks](https://github.com/OlgaSheva/M9.-Delegates.-Lambdas-and-Events)
+- [M9. Delegates. Lambdas and Events Tasks](https://github.com/OlgaSheva/M9.-Delegates.-Lambdas-and-Events)
 - [M10. Generics and Collections Tasks](https://github.com/OlgaSheva/M10.-Generics-and-Collections)
 
 #### Stage#1:

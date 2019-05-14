@@ -23,7 +23,11 @@ Programming. Krypto traiding. Yoga.
 ## Stage#2:
 - [Coding Practice: XLM Parser](https://github.com/OlgaSheva/CodingPracticeXLMParser)
 - [Coding Practice: Custom Collections](https://github.com/OlgaSheva/CodingPracticeCSharpStage2)
+- [M2. Basic Coding in C# Tasks](https://github.com/OlgaSheva/OOPinCSharp)
+- [M3. Creating types in CSharp Tasks](https://github.com/OlgaSheva/M3.-Creating-types-in-CSharp)
+- [M4. Methods in details Tasks](https://github.com/OlgaSheva/M4.-Methods-in-details)
 - [M7. Framework Fundamentals Tasks](https://github.com/OlgaSheva/M7.-Framework-Fundamentals)
+- [M9.-Delegates.-Lambdas-and-Events Tasks](https://github.com/OlgaSheva/M9.-Delegates.-Lambdas-and-Events)
 - [M10. Generics and Collections Tasks](https://github.com/OlgaSheva/M10.-Generics-and-Collections)
 
 ## Stage#1:

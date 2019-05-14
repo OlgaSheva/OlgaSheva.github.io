@@ -20,7 +20,7 @@ Programming. Krypto traiding. Yoga.
 
 ### Coding Practice
 
-## Stage#2:
+#### Stage#2:
 - [Coding Practice: XLM Parser](https://github.com/OlgaSheva/CodingPracticeXLMParser)
 - [Coding Practice: Custom Collections](https://github.com/OlgaSheva/CodingPracticeCSharpStage2)
 - [M2. Basic Coding in C# Tasks](https://github.com/OlgaSheva/OOPinCSharp)
@@ -30,7 +30,7 @@ Programming. Krypto traiding. Yoga.
 - [M9.-Delegates.-Lambdas-and-Events Tasks](https://github.com/OlgaSheva/M9.-Delegates.-Lambdas-and-Events)
 - [M10. Generics and Collections Tasks](https://github.com/OlgaSheva/M10.-Generics-and-Collections)
 
-## Stage#1:
+#### Stage#1:
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
 - [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
 - [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)

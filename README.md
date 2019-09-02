@@ -6,7 +6,7 @@ Belarusian State University
 Physics faculty (engineer)
 
 ### Experience
-- 2016.10 - until now. I'm out of work with my child.
+- Maternity leave. 2016.10 - until now.
 - Engineer (7vetrov Ltd.)
 > 2013.10 - until now. I had picked ventilation equipment for private, commercial and industrial facilities. Also in my duties included preparation commercial offers and participation in tenders. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
 - Manager assistant (STS-Klimate Ltd.)

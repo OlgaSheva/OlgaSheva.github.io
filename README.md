@@ -53,5 +53,5 @@ Programming. Krypto traiding. Yoga.
 - [PadawansTask15](https://github.com/OlgaSheva/PadawansTask15)
 
 ### Contacts
-- +375(29)516-41-23
+- + 375 (29) 516-41-23
 - olga.kripulevich@gmail.com

@@ -1,8 +1,7 @@
 ## Olga Kripulevich
 
 ### Education
-Belarusian State University
-Physics faculty (engineer)
+Belarusian State University. Physics faculty (engineer)
 
 ### Experience
 - Maternity leave. 2016.10 - until now.

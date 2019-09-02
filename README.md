@@ -2,7 +2,6 @@
 
 ### Education
 Belarusian State University
-
 Physics faculty (engineer)
 
 ### Experience

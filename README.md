@@ -20,38 +20,8 @@ Programming. Krypto traiding. Yoga.
 
 ### Coding Practice
 
-#### Stage#2:
-- [Coding Practice: XLM Parser](https://github.com/OlgaSheva/CodingPracticeXLMParser)
-- [Coding Practice: Custom Collections](https://github.com/OlgaSheva/CodingPracticeCSharpStage2)
-- [M2. Basic Coding in C# Tasks](https://github.com/OlgaSheva/OOPinCSharp)
-- [M3. Creating types in CSharp Tasks](https://github.com/OlgaSheva/M3.-Creating-types-in-CSharp)
-- [M4. Methods in details Tasks](https://github.com/OlgaSheva/M4.-Methods-in-details)
-- [M7. Framework Fundamentals Tasks](https://github.com/OlgaSheva/M7.-Framework-Fundamentals)
-- [M9. Delegates. Lambdas and Events Tasks](https://github.com/OlgaSheva/M9.-Delegates.-Lambdas-and-Events)
-- [M10. Generics and Collections Tasks](https://github.com/OlgaSheva/M10.-Generics-and-Collections)
-
-#### Stage#1:
+- [GitHab](https://github.com/OlgaSheva)
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
-- [Codewars ConvertAHexStringToRGB](https://github.com/OlgaSheva/ConvertAHexStringToRGB)
-- [Codewars ManipulateURLParameters](https://github.com/OlgaSheva/CodewarsManipulateURLParameters)
-- [Крестики-нолики](https://github.com/OlgaSheva/Tic-Tac-Toe/tree/master/ticTacToeGame/ticTacToeGame)
-[certificate](https://olgasheva.github.io/images/certificate1.jpg)
-- [Fibonacci Numbers](https://github.com/OlgaSheva/LearnToManageDataCollectionsUsingTheGenericListType)
-- [FancyCalc](https://github.com/OlgaSheva/FancyCalc)
-- [PadawansTask1](https://github.com/OlgaSheva/PadawansTask1)
-- [PadawansTask2](https://github.com/OlgaSheva/PadawansTask2)
-- [PadawansTask3](https://github.com/OlgaSheva/PadawansTask3)
-- [PadawansTask4](https://github.com/OlgaSheva/PadawansTask4)
-- [PadawansTask5](https://github.com/OlgaSheva/PadawansTask5)
-- [PadawansTask6](https://github.com/OlgaSheva/PadawansTask6)
-- [PadawansTask7](https://github.com/OlgaSheva/PadawansTask7)
-- [PadawansTask8](https://github.com/OlgaSheva/PadawansTask8)
-- [PadawansTask9](https://github.com/OlgaSheva/PadawansTask9)
-- [PadawansTask10](https://github.com/OlgaSheva/PadawansTask10)
-- [PadawansTask11](https://github.com/OlgaSheva/PadawansTask11)
-- [PadawansTask12](https://github.com/OlgaSheva/PadawansTask12)
-- [PadawansTask13](https://github.com/OlgaSheva/PadawansTask13)
-- [PadawansTask15](https://github.com/OlgaSheva/PadawansTask15)
 
 ### Contacts
 - +375 (29) 516-41-23

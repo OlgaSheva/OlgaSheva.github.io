@@ -4,9 +4,11 @@
 Belarusian State University. Physics faculty (engineer)
 
 ### Experience
-- Maternity leave. 2016.10 - until now.
-- Engineer (7vetrov Ltd.)
-> 2013.10 - until now. I had picked ventilation equipment for private, commercial and industrial facilities. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
+- Student (Epam training center)
+> 2019.09 - until now
+- Maternity leave. 2016.10 - 2019.10.
+- Equipment engineer (7vetrov Ltd.)
+> 2013.10 - 2019.10. I had picked ventilation equipment for private, commercial and industrial facilities. My favorite part of the job was advising clients on the choice of ventilation systems and technical issues related to equipment.
 - Manager assistant (STS-Klimate Ltd.)
 > 2012.08 - 2013.10. I had picked equipment for building engineering systems (ventilation, air conditioning, heating). Also in my duties included monitoring of tenders, preparation of tender documentation and controlling the supply of equipment to the customers.
 - Laboratory assistant (Institute of Chemistry of New Materials, Academy of Sciences)

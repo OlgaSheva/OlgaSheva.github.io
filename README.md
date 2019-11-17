@@ -24,5 +24,5 @@ Programming. Krypto traiding. Yoga.
 - [Codewars](https://www.codewars.com/users/OlgaSheva)
 
 ### Contacts
-- +375 (29) 516-41-23
+- +375 (29) 516-41-23 <i class="fab fa-telegram"></i>
 - olga.kripulevich@gmail.com
